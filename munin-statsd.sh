@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/sh -e
 
 LOGFILE=/var/log/munin-statsd.crashlog
 
